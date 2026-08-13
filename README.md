@@ -14,7 +14,7 @@ Check out **[the official Funkin' Blog](https://funkin.me/blog/)**
 
 Contributions are welcome! Add links through pull requests or create an issue to start a discussion.
 
-Unsure what to contribute? Check out the `good first issue` [tagged GitHub issues](https://github.com/FunkinCrew/funkin-resources/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) ⭐ 239 | 🐛 29 | 🌐 JavaScript | 📅 2026-05-23 and read our [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)!
+Unsure what to contribute? Check out the `good first issue` [tagged GitHub issues](https://github.com/FunkinCrew/funkin-resources/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) ⭐ 239 | 🐛 30 | 🌐 JavaScript | 📅 2026-05-23 and read our [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)!
 
 <!-- 
   HTML is valid in GitHub markdown.
@@ -64,7 +64,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 
 ### Spritesheet Generation
 
-* [oxipng](https://github.com/shssoichiro/oxipng) ⭐ 4,157 | 🐛 35 | 🌐 Rust | 📅 2026-08-10 - Simple program for general image optimization but also works nicely with FNF Sprite Sheets.
+* [oxipng](https://github.com/shssoichiro/oxipng) ⭐ 4,160 | 🐛 35 | 🌐 Rust | 📅 2026-08-10 - Simple program for general image optimization but also works nicely with FNF Sprite Sheets.
 * [FNF Spritesheet and XML Maker](https://github.com/UncertainProd/FnF-Spritesheet-and-XML-Maker) ⭐ 87 | 🐛 53 | 🌐 Python | 📅 2023-06-15 - Combines individual frames together into spritesheets for FNF, and helps you manage animations.
 * [Sparrow Atlas Resizer](https://github.com/KadeDev/SparrowAtlasResizer) ⭐ 17 | 🐛 0 | 🌐 C# | 📅 2023-01-02 - Simple program for resizing sparrow atlas PNG and XML files.
 * [Free Texture Packer](http://free-tex-packer.com/) - Combines individual frames together into spritesheets. Has options to remove duplicate frames and rearrange frames to minimize texture size. Make sure to select `Starling` as the output format.
@@ -112,7 +112,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 
 ## Programming
 
-* [Friday Night Funkin' Official Source Code](https://github.com/FunkinCrew/funkin) ⭐ 3,724 | 🐛 922 | 🌐 Haxe | 📅 2026-08-12 - The original open source game by The Funkin' Crew. Last updated for The Mobile Port.
+* [Friday Night Funkin' Official Source Code](https://github.com/FunkinCrew/funkin) ⭐ 3,729 | 🐛 922 | 🌐 Haxe | 📅 2026-08-13 - The original open source game by The Funkin' Crew. Last updated for The Mobile Port.
 
 ### Engines and Forks
 
@@ -187,7 +187,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 
 * [Visual Studio Code](https://code.visualstudio.com/) - Highly recommended IDE, as it is the only integrated development environment with proper support for Haxe (via extensions).
   * [Enable VSCode Debug Tools](https://twitter.com/EliteMasterEric/status/1535814918917734400) - A Twitter thread made by EliteMasterEric showing useful tips and tricks for Visual Studio Code.
-* [Funkin' Script AutoComplete](https://github.com/Snirozu/Funkin-Script-AutoComplete) ⭐ 26 | 🐛 0 | 🌐 TypeScript | 📅 2026-01-09 - A Visual Studio Code extension for Psych Engine you can use that will auto complete identifiers (functions, variables, etc.) in your Lua script.
+* [Funkin' Script AutoComplete](https://github.com/Snirozu/Funkin-Script-AutoComplete) ⭐ 27 | 🐛 0 | 🌐 TypeScript | 📅 2026-01-09 - A Visual Studio Code extension for Psych Engine you can use that will auto complete identifiers (functions, variables, etc.) in your Lua script.
 * [Source Code Guide | OVERHAUL](https://gamebanana.com/tuts/13798) - That one famous GameBanana compile guide. Also includes tutorials, like adding songs, custom characters, etc. (**originally targeted towards Funkin' 0.2.7.1**)
 
 ### Haxe/HaxeFlixel Resources
@@ -205,7 +205,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 
 ## Art
 
-* [Base Game FLAs](https://github.com/FunkinCrew/Funkin/tree/master/art/flashFiles) ⭐ 3,724 | 🐛 922 | 🌐 Haxe | 📅 2026-08-12 - FLAs for Friday Night' Funkin from the GitHub repository.
+* [Base Game FLAs](https://github.com/FunkinCrew/Funkin/tree/master/art/flashFiles) ⭐ 3,729 | 🐛 922 | 🌐 Haxe | 📅 2026-08-13 - FLAs for Friday Night' Funkin from the GitHub repository.
 * [Week 7 Update FLAs](https://twitter.com/PhantomArcade3K/status/1521540912421257218) - FLAs for the Week 7 update including the stage, Tankman and cutscenes.
 * [FNF Logo SVG recreation](https://commons.wikimedia.org/wiki/File:FNF-Logo.svg) - Vector recreation of the FNF logo, so you can edit the shapes better and recolor it without a crappy fill bucket.
 
