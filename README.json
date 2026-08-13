@@ -1,0 +1,660 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "oxipng",
+          "description": "Simple program for general image optimization but also works nicely with FNF Sprite Sheets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T13:44:19Z",
+            "owner": "oxipng",
+            "repo": "oxipng",
+            "stars": 4157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FNF Spritesheet and XML Maker",
+          "description": "Combines individual frames together into spritesheets for FNF, and helps you manage animations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-15T13:44:18Z",
+            "owner": "UncertainProd",
+            "repo": "FnF-Spritesheet-and-XML-Maker",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sparrow Atlas Resizer",
+          "description": "Simple program for resizing sparrow atlas PNG and XML files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-01-02T07:28:39Z",
+            "owner": "Kade-github",
+            "repo": "SparrowAtlasResizer",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Spritesheet Generation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Psych Engine",
+          "description": "A fork of base game which includes new quality-of-life changes, performance improvements, and Lua-based mod tools. Popular and well-documented.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Psych Engine Docs",
+              "description": "Psych Engine modding documentation.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Haxe",
+                "last_commit": "2025-03-24T18:03:54Z",
+                "owner": "ShadowMario",
+                "repo": "FNF-PsychEngine",
+                "stars": 1413
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Another alternative wiki for Psych Engine",
+              "description": "Made by Meme1079 and contributors.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Lua",
+                "last_commit": "2026-04-08T04:34:11Z",
+                "owner": "MemeFlavor",
+                "repo": "PsychWiki",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Troll Engine",
+              "description": "A competitive fork of Psych Engine made for the Tails gets Trolled mod. Supports HScripting and has modchart capabilities with a system similar to Andromeda's.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2024-09-03T20:39:04Z",
+                "owner": "riconuts",
+                "repo": "troll-engine",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Alternative wiki for Psych Engine",
+              "description": "Made by CaptainBaldi and contributors.",
+              "children": []
+            },
+            {
+              "node_type": "item",
+              "title": "Funkin Cocoa",
+              "description": "A rewrite of base game (Psych 0.4). Aims to be as customizable as possible. Supports advanced HScript scripting using SScript.",
+              "children": []
+            }
+          ],
+          "repo_info": {
+            "archived": true,
+            "language": "Haxe",
+            "last_commit": "2025-03-24T18:03:54Z",
+            "owner": "ShadowMario",
+            "repo": "FNF-PsychEngine",
+            "stars": 1413
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Codename Engine",
+          "description": "A fork of base game that provides full HScript support for advanced softcoding, along with sorted and half rewritten source for optimisation and ease of use.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Codename Engine Docs",
+              "description": "Codename Engine modding documenation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Haxe",
+                "last_commit": "2026-08-12T22:44:54Z",
+                "owner": "CodenameCrew",
+                "repo": "CodenameEngine",
+                "stars": 467
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Haxe",
+            "last_commit": "2026-08-12T22:44:54Z",
+            "owner": "CodenameCrew",
+            "repo": "CodenameEngine",
+            "stars": 467
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FPS Plus",
+          "description": "A fork of Funkin', as the name suggests, with higher framerate, better input system, rebindable keys and more. B-Side Redux was made on this engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haxe",
+            "last_commit": "2026-08-11T17:13:48Z",
+            "owner": "ThatRozebudDude",
+            "repo": "FPS-Plus-Public",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Leather Engine",
+          "description": "An engine that includes 1-21 key support, supports mod loading with Polymod and has other useful features like a stage editor.)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Haxe",
+            "last_commit": "2026-04-04T01:05:22Z",
+            "owner": "Leather128",
+            "repo": "LeatherEngine",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crow Engine",
+          "description": "A 1:1 recreation of Base Game, introduces extreme performance upgrades, source code easier to work with.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haxe",
+            "last_commit": "2025-12-27T16:59:37Z",
+            "owner": "EyeDaleHim",
+            "repo": "Crow-Engine",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Super Engine",
+          "description": "A fork of Kade Engine that features revamped menus, mod support and online functionality.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haxe",
+            "last_commit": "2026-05-23T05:14:39Z",
+            "owner": "superpowers04",
+            "repo": "Super-Engine",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Altronix Engine",
+          "description": "An engine that provides the support for creating localizations into different languages and HScript modding support with Polymod HScript classes and small script files. Also, engine has integration with GameJolt with achievements.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haxe",
+            "last_commit": "2025-03-19T10:07:59Z",
+            "owner": "Altronix-Team",
+            "repo": "FNF-AltronixEngine",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Kade Engine - An archived engine that includes new features and quality of life fixes, targeted at pro rhythm game players.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Kade Engine Community",
+              "description": "A fork of Kade Engine Similar To BoloVEVO's with expanded features and more customizability. Includes hscript modchart support and revamped main menu.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Haxe",
+                "last_commit": "2025-03-15T17:12:51Z",
+                "owner": "TheRealJake12",
+                "repo": "Kade-Engine-Community",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BoloVEVO's Kade Engine",
+              "description": "A fork of Kade Engine that fixes all the bugs and includes new content.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "BoloVEVO's Kade Engine Docs",
+                  "description": "Kade Engine Fork modding documentation.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "language": "Haxe",
+                    "last_commit": "2024-01-22T10:56:46Z",
+                    "owner": "BoloVEVO",
+                    "repo": "Kade-Engine",
+                    "stars": 33
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "language": "Haxe",
+                "last_commit": "2024-01-22T10:56:46Z",
+                "owner": "BoloVEVO",
+                "repo": "Kade-Engine",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Edak Engine",
+              "description": "A fork of Kade Engine with HScript support, softcoding, a cleaner file system, configurable weeks and more. It also comes with B-Side Remixes Legacy's assets.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Edak Engine Docs",
+                  "description": "Edak Engine modding documentation.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "language": "Haxe",
+                    "last_commit": "2023-07-04T18:58:00Z",
+                    "owner": "skullbite",
+                    "repo": "Edak-Engine",
+                    "stars": 12
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": true,
+                "language": "Haxe",
+                "last_commit": "2023-07-04T18:58:00Z",
+                "owner": "skullbite",
+                "repo": "Edak-Engine",
+                "stars": 12
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Forever Engine - An archived rewrite of the game, originally written by Yoshubs. Includes performance reworks, HScript support, and more.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Forever Engine Feather",
+              "description": "A fork of Forever Engine that includes all of its features, a scripting system based on HScript, called SScript, reorganized codebase, an events system based off of Hypno's Lullaby v2 and fully softcoded weeks and characters.",
+              "children": []
+            },
+            {
+              "node_type": "item",
+              "title": "Forever Engine Plus",
+              "description": "A fork of Forever Engine which aims to maintain the engine by adding and optimizing features as well as fixing its bugs. Allow softcoding features for basic objects such as characters, stages, weeks, but also advanced objects such as shaders.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Modding+ - An archived engine with HScript support with the intention of easy customization and enhanced gameplay options.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Disappointing Plus",
+              "description": "A fork of Modding+ with additional features such as framerate adjustment, camera movement whenever a character sings, and an improved character swap function.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Haxe",
+                "last_commit": "2026-08-06T21:57:49Z",
+                "owner": "AFunkinDisappointment",
+                "repo": "DisappointingPlus",
+                "stars": 14
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "item",
+          "title": "Pop Engine Rewrite",
+          "description": "A FNF engine build on version v0.2.7.1 with more content added and new menu gameplay looks!",
+          "children": []
+        }
+      ],
+      "title": "Engines and Forks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Funkin' Android",
+          "description": "A fork of the game with controls and optimizations allowing it to be played on Android devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haxe",
+            "last_commit": "2025-07-20T15:19:24Z",
+            "owner": "luckydog7",
+            "repo": "Funkin-android",
+            "stars": 222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PSXFunkin",
+          "description": "A Playstation 1 de-make in C/C++.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2021-12-17T21:05:33Z",
+            "owner": "cuckydev",
+            "repo": "PSXFunkin",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Funkin' Rewritten",
+          "description": "A rewrite of FNF in lua that is very focused on optimization. Can also compile for Nintendo Switch homebrew.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Vanilla Engine",
+              "description": "A fork of Funkin' Rewritten that adds many QOL features and is more focused on modding.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Lua",
+                "last_commit": "2026-08-05T00:10:16Z",
+                "owner": "VanillaEngineDevs",
+                "repo": "Vanilla-Engine",
+                "stars": 25
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": true,
+            "language": "Lua",
+            "last_commit": "2024-09-29T22:48:43Z",
+            "owner": "htv04",
+            "repo": "funkin-rewritten",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FNF LÖVE",
+          "description": "A Lua recreation of FNF within the LÖVE2D framework. Can compile for Nintendo Switch Homebrew.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-04T23:45:23Z",
+            "owner": "stilic",
+            "repo": "FNF-LOVE",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FNF-Benjine",
+          "description": "Funkin' but in Godot, made by BennyK and was used for Funkin' VR.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "FNF-Benjine Docs",
+              "description": "Godot Funkin' modding documentation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "GDScript",
+                "last_commit": "2022-07-23T20:13:22Z",
+                "owner": "this-is-bennyk",
+                "repo": "FNF-Benjine",
+                "stars": 45
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "GDScript",
+            "last_commit": "2022-07-23T20:13:22Z",
+            "owner": "this-is-bennyk",
+            "repo": "FNF-Benjine",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FunkiniOS",
+          "description": "A port of FNF to iOS devices, requires sideloading.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haxe",
+            "last_commit": "2022-08-09T20:01:13Z",
+            "owner": "hadobedo",
+            "repo": "FunkiniOS",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Funkin3D",
+          "description": "A 3DS de-make of FNF made in LÖVEPOTION.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-03-24T15:08:38Z",
+            "owner": "GuglioIsStupid",
+            "repo": "Funkin3D",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PydayNightFunkin",
+          "description": "A recreation of FNF in Python, allowing for quick changeability! Tries to be painlessly readable and is somewhat documented.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-06T20:13:44Z",
+            "owner": "Square789",
+            "repo": "PydayNightFunkin",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BS Engine Mobile",
+          "description": "A port of FNF that work in Android with optimizations. One of the most famous android FNF engines.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Haxe",
+            "last_commit": "2023-02-09T18:22:17Z",
+            "owner": "MatheusSilver",
+            "repo": "BS-Engine-Mobile-Legacy",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Funkin' Mobile",
+          "description": "A heavy wip fork of the base game but rewritten for mobile devices, inspired by luckydog7's port of the game to android devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haxe",
+            "last_commit": "2024-03-14T15:42:36Z",
+            "owner": "FNF-Mod-Porting",
+            "repo": "Funkin",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Rewrites and Ports"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "HaxeFlixel Demos",
+          "description": "Collection of demos for HaxeFlixel, designed to introduce beginners to the framework.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub repository for abovementioned demos",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Haxe",
+                "last_commit": "2026-07-03T21:32:06Z",
+                "owner": "HaxeFlixel",
+                "repo": "flixel-demos",
+                "stars": 465
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "HaxeFlixel's Tutorial Game (TurnBasedRPG)",
+          "description": "A really nifty tutorial that goes step-by-step on teaching how to make a game, comes with pre-made assets for you to use as well.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub source code for TurnBasedRPG",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Haxe",
+                "last_commit": "2026-07-03T21:32:06Z",
+                "owner": "HaxeFlixel",
+                "repo": "flixel-demos",
+                "stars": 465
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Haxe/HaxeFlixel Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SNIFF - SiIva Note Importer for FNF",
+          "description": "Tool to convert charts made in FL Studio to .json files usable in Friday Night Funkin'.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-02-28T01:02:21Z",
+            "owner": "PrincessMtH",
+            "repo": "SNIFF",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Moonchart",
+          "description": "Haxe library able to manage and convert charts made between multiple rhythm games to files usable in many Friday Night Funkin' versions and engines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haxe",
+            "last_commit": "2026-07-30T16:33:21Z",
+            "owner": "MaybeMaru",
+            "repo": "moonchart",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fnf-to-sm",
+          "description": "A fork of a fork from the original fnf-to-sm repository. Converts Funkin' .json charts to StepMania simfiles and vice versa.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Alternatively, using version 1.7 of Kade Engine",
+              "description": "also has a simfile to .json converter.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Haxe",
+                "last_commit": "2023-08-05T21:50:31Z",
+                "owner": "kadedev",
+                "repo": "Kade-Engine",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "You can also use SM-to-FNF-Dance-Double",
+              "description": "which has the added benefit of supporting sm file BPM Changes (also designed to work with Psych Engine)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-10-28T06:02:46Z",
+                "owner": "toony3243",
+                "repo": "SM-to-FNF-Dance-Double",
+                "stars": 3
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-31T03:09:44Z",
+            "owner": "Ashen-Haze",
+            "repo": "fnf-to-sm",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Charting"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:05:31.858Z",
+    "original_repository": "FunkinCrew/awesome-funkin-resources",
+    "original_repository_sha": "05dda1d634f56b1b63ad9eacfb10dff0f1d37b79",
+    "enhanced_repository": "enhansome/enhansome-funkin-resources",
+    "enhanced_repository_description": null,
+    "title": "Awesome Friday Night Funkin' Resources with stars"
+  }
+}
