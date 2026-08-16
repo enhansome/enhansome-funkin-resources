@@ -67,7 +67,7 @@
                 "last_commit": "2025-03-24T18:03:54Z",
                 "owner": "ShadowMario",
                 "repo": "FNF-PsychEngine",
-                "stars": 1413
+                "stars": 1414
               }
             },
             {
@@ -117,7 +117,7 @@
             "last_commit": "2025-03-24T18:03:54Z",
             "owner": "ShadowMario",
             "repo": "FNF-PsychEngine",
-            "stars": 1413
+            "stars": 1414
           }
         },
         {
@@ -133,20 +133,20 @@
               "repo_info": {
                 "archived": false,
                 "language": "Haxe",
-                "last_commit": "2026-08-15T18:34:37Z",
+                "last_commit": "2026-08-16T18:38:13Z",
                 "owner": "CodenameCrew",
                 "repo": "CodenameEngine",
-                "stars": 467
+                "stars": 468
               }
             }
           ],
           "repo_info": {
             "archived": false,
             "language": "Haxe",
-            "last_commit": "2026-08-15T18:34:37Z",
+            "last_commit": "2026-08-16T18:38:13Z",
             "owner": "CodenameCrew",
             "repo": "CodenameEngine",
-            "stars": 467
+            "stars": 468
           }
         },
         {
@@ -650,7 +650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T21:59:38.538Z",
+    "last_updated": "2026-08-16T21:58:48.459Z",
     "original_repository": "FunkinCrew/awesome-funkin-resources",
     "original_repository_sha": "05dda1d634f56b1b63ad9eacfb10dff0f1d37b79",
     "enhanced_repository": "enhansome/enhansome-funkin-resources",
