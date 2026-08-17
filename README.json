@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T00:10:39Z",
+            "last_commit": "2026-08-17T13:44:32Z",
             "owner": "oxipng",
             "repo": "oxipng",
-            "stars": 4165
+            "stars": 4168
           }
         },
         {
@@ -133,20 +133,20 @@
               "repo_info": {
                 "archived": false,
                 "language": "Haxe",
-                "last_commit": "2026-08-16T18:38:13Z",
+                "last_commit": "2026-08-17T21:13:54Z",
                 "owner": "CodenameCrew",
                 "repo": "CodenameEngine",
-                "stars": 468
+                "stars": 469
               }
             }
           ],
           "repo_info": {
             "archived": false,
             "language": "Haxe",
-            "last_commit": "2026-08-16T18:38:13Z",
+            "last_commit": "2026-08-17T21:13:54Z",
             "owner": "CodenameCrew",
             "repo": "CodenameEngine",
-            "stars": 468
+            "stars": 469
           }
         },
         {
@@ -157,7 +157,7 @@
           "repo_info": {
             "archived": false,
             "language": "Haxe",
-            "last_commit": "2026-08-15T09:04:18Z",
+            "last_commit": "2026-08-17T17:32:31Z",
             "owner": "ThatRozebudDude",
             "repo": "FPS-Plus-Public",
             "stars": 159
@@ -650,7 +650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T21:58:48.459Z",
+    "last_updated": "2026-08-17T22:01:54.392Z",
     "original_repository": "FunkinCrew/awesome-funkin-resources",
     "original_repository_sha": "05dda1d634f56b1b63ad9eacfb10dff0f1d37b79",
     "enhanced_repository": "enhansome/enhansome-funkin-resources",
