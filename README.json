@@ -14,7 +14,7 @@
             "last_commit": "2026-08-17T13:44:32Z",
             "owner": "oxipng",
             "repo": "oxipng",
-            "stars": 4168
+            "stars": 4171
           }
         },
         {
@@ -157,7 +157,7 @@
           "repo_info": {
             "archived": false,
             "language": "Haxe",
-            "last_commit": "2026-08-17T17:32:31Z",
+            "last_commit": "2026-08-18T17:08:49Z",
             "owner": "ThatRozebudDude",
             "repo": "FPS-Plus-Public",
             "stars": 159
@@ -650,7 +650,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T22:01:54.392Z",
+    "last_updated": "2026-08-18T22:00:24.409Z",
     "original_repository": "FunkinCrew/awesome-funkin-resources",
     "original_repository_sha": "05dda1d634f56b1b63ad9eacfb10dff0f1d37b79",
     "enhanced_repository": "enhansome/enhansome-funkin-resources",
