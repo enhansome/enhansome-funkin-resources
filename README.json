@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-17T13:44:32Z",
                 "owner": "oxipng",
                 "repo": "oxipng",
-                "stars": 4173
+                "stars": 4175
               }
             },
             {
@@ -138,7 +138,7 @@
                     "archived": false,
                     "id": 545729748,
                     "language": "Haxe",
-                    "last_commit": "2026-08-19T10:03:56Z",
+                    "last_commit": "2026-08-19T20:09:38Z",
                     "owner": "CodenameCrew",
                     "repo": "CodenameEngine",
                     "stars": 469
@@ -149,7 +149,7 @@
                 "archived": false,
                 "id": 545729748,
                 "language": "Haxe",
-                "last_commit": "2026-08-19T10:03:56Z",
+                "last_commit": "2026-08-19T20:09:38Z",
                 "owner": "CodenameCrew",
                 "repo": "CodenameEngine",
                 "stars": 469
@@ -668,7 +668,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:32:44.205Z",
+    "last_updated": "2026-08-19T22:02:31.037Z",
     "original_repository": "FunkinCrew/awesome-funkin-resources",
     "original_repository_id": 592599489,
     "original_repository_sha": "05dda1d634f56b1b63ad9eacfb10dff0f1d37b79",
