@@ -80,7 +80,7 @@
                     "last_commit": "2025-03-24T18:03:54Z",
                     "owner": "ShadowMario",
                     "repo": "FNF-PsychEngine",
-                    "stars": 1414
+                    "stars": 1415
                   }
                 },
                 {
@@ -121,7 +121,7 @@
                 "last_commit": "2025-03-24T18:03:54Z",
                 "owner": "ShadowMario",
                 "repo": "FNF-PsychEngine",
-                "stars": 1414
+                "stars": 1415
               }
             },
             {
@@ -164,7 +164,7 @@
                 "archived": false,
                 "id": 376966646,
                 "language": "Haxe",
-                "last_commit": "2026-08-18T17:08:49Z",
+                "last_commit": "2026-08-21T20:52:18Z",
                 "owner": "ThatRozebudDude",
                 "repo": "FPS-Plus-Public",
                 "stars": 159
@@ -355,7 +355,7 @@
                 "last_commit": "2025-07-20T15:19:24Z",
                 "owner": "luckydog7",
                 "repo": "Funkin-android",
-                "stars": 222
+                "stars": 221
               }
             },
             {
@@ -668,7 +668,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T22:03:19.999Z",
+    "last_updated": "2026-08-21T22:02:00.746Z",
     "original_repository": "FunkinCrew/awesome-funkin-resources",
     "original_repository_id": 592599489,
     "original_repository_sha": "05dda1d634f56b1b63ad9eacfb10dff0f1d37b79",
