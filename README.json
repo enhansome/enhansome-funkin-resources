@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-17T13:44:32Z",
                 "owner": "oxipng",
                 "repo": "oxipng",
-                "stars": 4176
+                "stars": 4178
               }
             },
             {
@@ -80,7 +80,7 @@
                     "last_commit": "2025-03-24T18:03:54Z",
                     "owner": "ShadowMario",
                     "repo": "FNF-PsychEngine",
-                    "stars": 1415
+                    "stars": 1418
                   }
                 },
                 {
@@ -121,7 +121,7 @@
                 "last_commit": "2025-03-24T18:03:54Z",
                 "owner": "ShadowMario",
                 "repo": "FNF-PsychEngine",
-                "stars": 1415
+                "stars": 1418
               }
             },
             {
@@ -138,10 +138,10 @@
                     "archived": false,
                     "id": 545729748,
                     "language": "Haxe",
-                    "last_commit": "2026-08-20T12:32:25Z",
+                    "last_commit": "2026-08-22T20:42:46Z",
                     "owner": "CodenameCrew",
                     "repo": "CodenameEngine",
-                    "stars": 469
+                    "stars": 470
                   }
                 }
               ],
@@ -149,10 +149,10 @@
                 "archived": false,
                 "id": 545729748,
                 "language": "Haxe",
-                "last_commit": "2026-08-20T12:32:25Z",
+                "last_commit": "2026-08-22T20:42:46Z",
                 "owner": "CodenameCrew",
                 "repo": "CodenameEngine",
-                "stars": 469
+                "stars": 470
               }
             },
             {
@@ -416,7 +416,7 @@
                 "last_commit": "2026-08-04T23:45:23Z",
                 "owner": "stilic",
                 "repo": "FNF-LOVE",
-                "stars": 56
+                "stars": 57
               }
             },
             {
@@ -668,7 +668,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T22:02:00.746Z",
+    "last_updated": "2026-08-22T21:59:42.239Z",
     "original_repository": "FunkinCrew/awesome-funkin-resources",
     "original_repository_id": 592599489,
     "original_repository_sha": "05dda1d634f56b1b63ad9eacfb10dff0f1d37b79",
