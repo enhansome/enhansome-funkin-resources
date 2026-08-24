@@ -64,7 +64,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 
 ### Spritesheet Generation
 
-* [oxipng](https://github.com/shssoichiro/oxipng) ⭐ 4,180 | 🐛 36 | 🌐 Rust | 📅 2026-08-24 - Simple program for general image optimization but also works nicely with FNF Sprite Sheets.
+* [oxipng](https://github.com/shssoichiro/oxipng) ⭐ 4,181 | 🐛 36 | 🌐 Rust | 📅 2026-08-24 - Simple program for general image optimization but also works nicely with FNF Sprite Sheets.
 * [FNF Spritesheet and XML Maker](https://github.com/UncertainProd/FnF-Spritesheet-and-XML-Maker) ⭐ 87 | 🐛 53 | 🌐 Python | 📅 2023-06-15 - Combines individual frames together into spritesheets for FNF, and helps you manage animations.
 * [Sparrow Atlas Resizer](https://github.com/KadeDev/SparrowAtlasResizer) ⭐ 17 | 🐛 0 | 🌐 C# | 📅 2023-01-02 - Simple program for resizing sparrow atlas PNG and XML files.
 * [Free Texture Packer](http://free-tex-packer.com/) - Combines individual frames together into spritesheets. Has options to remove duplicate frames and rearrange frames to minimize texture size. Make sure to select `Starling` as the output format.
@@ -112,7 +112,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 
 ## Programming
 
-* [Friday Night Funkin' Official Source Code](https://github.com/FunkinCrew/funkin) ⭐ 3,746 | 🐛 908 | 🌐 Haxe | 📅 2026-08-23 - The original open source game by The Funkin' Crew. Last updated for The Mobile Port.
+* [Friday Night Funkin' Official Source Code](https://github.com/FunkinCrew/funkin) ⭐ 3,746 | 🐛 910 | 🌐 Haxe | 📅 2026-08-23 - The original open source game by The Funkin' Crew. Last updated for The Mobile Port.
 
 ### Engines and Forks
 
@@ -136,7 +136,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 * [Codename Engine](https://github.com/YoshiCrafter29/CodenameEngine) ⭐ 470 | 🐛 65 | 🌐 Haxe | 📅 2026-08-23 - A fork of base game that provides full HScript support for advanced softcoding, along with sorted and half rewritten source for optimisation and ease of use.
   * [Codename Engine Docs](https://github.com/YoshiCrafter29/CodenameEngine/wiki) ⭐ 470 | 🐛 65 | 🌐 Haxe | 📅 2026-08-23 - Codename Engine modding documenation.
 
-* [FPS Plus](https://github.com/ThatRozebudDude/FPS-Plus-Public) ⭐ 159 | 🐛 2 | 🌐 Haxe | 📅 2026-08-21 - A fork of Funkin', as the name suggests, with higher framerate, better input system, rebindable keys and more. [B-Side Redux](https://gamebanana.com/mods/42724) was made on this engine.
+* [FPS Plus](https://github.com/ThatRozebudDude/FPS-Plus-Public) ⭐ 159 | 🐛 2 | 🌐 Haxe | 📅 2026-08-24 - A fork of Funkin', as the name suggests, with higher framerate, better input system, rebindable keys and more. [B-Side Redux](https://gamebanana.com/mods/42724) was made on this engine.
 
 * [Leather Engine](https://github.com/Leather128/LeatherEngine) ⚠️ Archived - An engine that includes 1-21 key support, supports mod loading with Polymod and has other useful features like a stage editor.)
 
@@ -205,7 +205,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 
 ## Art
 
-* [Base Game FLAs](https://github.com/FunkinCrew/Funkin/tree/master/art/flashFiles) ⭐ 3,746 | 🐛 908 | 🌐 Haxe | 📅 2026-08-23 - FLAs for Friday Night' Funkin from the GitHub repository.
+* [Base Game FLAs](https://github.com/FunkinCrew/Funkin/tree/master/art/flashFiles) ⭐ 3,746 | 🐛 910 | 🌐 Haxe | 📅 2026-08-23 - FLAs for Friday Night' Funkin from the GitHub repository.
 * [Week 7 Update FLAs](https://twitter.com/PhantomArcade3K/status/1521540912421257218) - FLAs for the Week 7 update including the stage, Tankman and cutscenes.
 * [FNF Logo SVG recreation](https://commons.wikimedia.org/wiki/File:FNF-Logo.svg) - Vector recreation of the FNF logo, so you can edit the shapes better and recolor it without a crappy fill bucket.
 
