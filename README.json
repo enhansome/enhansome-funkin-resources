@@ -4,6 +4,28 @@
       "description": null,
       "items": [
         {
+          "node_type": "group",
+          "title": "Aseprite",
+          "description": "Animated sprite editor and pixel art tool.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Aseprite JSON to XML",
+              "description": "Converter from Aseprite's JSON format to Sparrow XML that is compatible with Funkin'. (Note: Aseprite is getting support on engines such as Codename Engine, therefore you won't need this for those engines anymore)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 548639736,
+                "language": "Python",
+                "last_commit": "2023-07-24T14:02:07Z",
+                "owner": "MaybeMaru",
+                "repo": "Aseprite-JSON-to-XML",
+                "stars": 13
+              }
+            }
+          ]
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -14,10 +36,10 @@
                 "archived": false,
                 "id": 49436331,
                 "language": "Rust",
-                "last_commit": "2026-08-17T13:44:32Z",
+                "last_commit": "2026-08-24T13:44:29Z",
                 "owner": "oxipng",
                 "repo": "oxipng",
-                "stars": 4179
+                "stars": 4180
               }
             },
             {
@@ -54,6 +76,28 @@
           "description": null,
           "node_type": "group",
           "title": "Spritesheet Generation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Example lua script of atlas spritesheets (PSYCH ENGINE)",
+              "description": "Example script showing how to use Atlas sprites in Lua.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 668455657,
+                "language": "Lua",
+                "last_commit": "2023-07-26T22:22:51Z",
+                "owner": "MarkimusZer0",
+                "repo": "SmokeyTextureAtlas-Example",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Texture Atlas"
         }
       ],
       "title": "Animation"
@@ -61,6 +105,21 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "Friday Night Funkin' Official Source Code",
+          "description": "The original open source game by The Funkin' Crew. Last updated for The Mobile Port.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 300816061,
+            "language": "Haxe",
+            "last_commit": "2026-08-23T15:33:40Z",
+            "owner": "FunkinCrew",
+            "repo": "Funkin",
+            "stars": 3746
+          }
+        },
         {
           "children": [
             {
@@ -533,6 +592,28 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "Funkin' Script AutoComplete",
+              "description": "A Visual Studio Code extension for Psych Engine you can use that will auto complete identifiers (functions, variables, etc.) in your Lua script.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 542291915,
+                "language": "TypeScript",
+                "last_commit": "2026-01-09T23:07:06Z",
+                "owner": "Snirozu",
+                "repo": "Funkin-Script-AutoComplete",
+                "stars": 27
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Visual Studio Code"
+        },
+        {
+          "children": [
+            {
               "node_type": "group",
               "title": "HaxeFlixel Demos",
               "description": "Collection of demos for HaxeFlixel, designed to introduce beginners to the framework.",
@@ -668,7 +749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:59:45.940Z",
+    "last_updated": "2026-08-24T14:31:15.172Z",
     "original_repository": "FunkinCrew/awesome-funkin-resources",
     "original_repository_id": 592599489,
     "original_repository_sha": "05dda1d634f56b1b63ad9eacfb10dff0f1d37b79",
