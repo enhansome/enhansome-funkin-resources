@@ -39,7 +39,7 @@
                 "last_commit": "2026-08-24T13:44:29Z",
                 "owner": "oxipng",
                 "repo": "oxipng",
-                "stars": 4183
+                "stars": 4187
               }
             },
             {
@@ -114,10 +114,10 @@
             "archived": false,
             "id": 300816061,
             "language": "Haxe",
-            "last_commit": "2026-08-25T02:35:29Z",
+            "last_commit": "2026-08-25T14:28:50Z",
             "owner": "FunkinCrew",
             "repo": "Funkin",
-            "stars": 3746
+            "stars": 3745
           }
         },
         {
@@ -200,7 +200,7 @@
                     "last_commit": "2026-08-23T06:50:54Z",
                     "owner": "CodenameCrew",
                     "repo": "CodenameEngine",
-                    "stars": 470
+                    "stars": 469
                   }
                 }
               ],
@@ -211,7 +211,7 @@
                 "last_commit": "2026-08-23T06:50:54Z",
                 "owner": "CodenameCrew",
                 "repo": "CodenameEngine",
-                "stars": 470
+                "stars": 469
               }
             },
             {
@@ -223,7 +223,7 @@
                 "archived": false,
                 "id": 376966646,
                 "language": "Haxe",
-                "last_commit": "2026-08-24T16:14:06Z",
+                "last_commit": "2026-08-25T21:29:09Z",
                 "owner": "ThatRozebudDude",
                 "repo": "FPS-Plus-Public",
                 "stars": 159
@@ -630,7 +630,7 @@
                     "last_commit": "2026-07-03T21:32:06Z",
                     "owner": "HaxeFlixel",
                     "repo": "flixel-demos",
-                    "stars": 465
+                    "stars": 464
                   }
                 }
               ]
@@ -652,7 +652,7 @@
                     "last_commit": "2026-07-03T21:32:06Z",
                     "owner": "HaxeFlixel",
                     "repo": "flixel-demos",
-                    "stars": 465
+                    "stars": 464
                   }
                 }
               ]
@@ -749,7 +749,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:24:01.919Z",
+    "last_updated": "2026-08-25T22:02:12.828Z",
     "original_repository": "FunkinCrew/awesome-funkin-resources",
     "original_repository_id": 592599489,
     "original_repository_sha": "05dda1d634f56b1b63ad9eacfb10dff0f1d37b79",
