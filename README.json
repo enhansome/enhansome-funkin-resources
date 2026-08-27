@@ -39,7 +39,7 @@
                 "last_commit": "2026-08-24T13:44:29Z",
                 "owner": "oxipng",
                 "repo": "oxipng",
-                "stars": 4189
+                "stars": 4190
               }
             },
             {
@@ -114,10 +114,10 @@
             "archived": false,
             "id": 300816061,
             "language": "Haxe",
-            "last_commit": "2026-08-26T17:37:35Z",
+            "last_commit": "2026-08-27T10:27:56Z",
             "owner": "FunkinCrew",
             "repo": "Funkin",
-            "stars": 3748
+            "stars": 3749
           }
         },
         {
@@ -749,9 +749,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T02:11:52.300Z",
-    "original_repository": "FunkinCrew/awesome-funkin-resources",
-    "original_repository_id": 592599489,
+    "last_updated": "2026-08-27T11:44:35.193Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 592599489,
+      "language": "JavaScript",
+      "last_commit": "2026-05-23T00:54:32Z",
+      "owner": "FunkinCrew",
+      "repo": "awesome-funkin-resources",
+      "stars": 241
+    },
     "original_repository_sha": "05dda1d634f56b1b63ad9eacfb10dff0f1d37b79",
     "enhanced_repository": "enhansome/enhansome-funkin-resources",
     "enhanced_repository_description": null,
