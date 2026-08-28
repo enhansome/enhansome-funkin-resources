@@ -112,7 +112,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 
 ## Programming
 
-* [Friday Night Funkin' Official Source Code](https://github.com/FunkinCrew/funkin) ⭐ 3,749 | 🐛 917 | 🌐 Haxe | 📅 2026-08-27 - The original open source game by The Funkin' Crew. Last updated for The Mobile Port.
+* [Friday Night Funkin' Official Source Code](https://github.com/FunkinCrew/funkin) ⭐ 3,750 | 🐛 914 | 🌐 Haxe | 📅 2026-08-27 - The original open source game by The Funkin' Crew. Last updated for The Mobile Port.
 
 ### Engines and Forks
 
@@ -136,7 +136,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 * [Codename Engine](https://github.com/YoshiCrafter29/CodenameEngine) ⭐ 470 | 🐛 65 | 🌐 Haxe | 📅 2026-08-23 - A fork of base game that provides full HScript support for advanced softcoding, along with sorted and half rewritten source for optimisation and ease of use.
   * [Codename Engine Docs](https://github.com/YoshiCrafter29/CodenameEngine/wiki) ⭐ 470 | 🐛 65 | 🌐 Haxe | 📅 2026-08-23 - Codename Engine modding documenation.
 
-* [FPS Plus](https://github.com/ThatRozebudDude/FPS-Plus-Public) ⭐ 159 | 🐛 2 | 🌐 Haxe | 📅 2026-08-26 - A fork of Funkin', as the name suggests, with higher framerate, better input system, rebindable keys and more. [B-Side Redux](https://gamebanana.com/mods/42724) was made on this engine.
+* [FPS Plus](https://github.com/ThatRozebudDude/FPS-Plus-Public) ⭐ 161 | 🐛 2 | 🌐 Haxe | 📅 2026-08-26 - A fork of Funkin', as the name suggests, with higher framerate, better input system, rebindable keys and more. [B-Side Redux](https://gamebanana.com/mods/42724) was made on this engine.
 
 * [Leather Engine](https://github.com/Leather128/LeatherEngine) ⚠️ Archived - An engine that includes 1-21 key support, supports mod loading with Polymod and has other useful features like a stage editor.)
 
@@ -172,7 +172,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 * [Funkin' Android](https://github.com/luckydog7/Funkin-android) ⭐ 221 | 🐛 1,410 | 🌐 Haxe | 📅 2025-07-20 - A fork of the game with controls and optimizations allowing it to be played on Android devices.
 * [PSXFunkin](https://github.com/cuckydev/PSXFunkin) ⚠️ Archived - A Playstation 1 de-make in C/C++.
 * [Funkin' Rewritten](https://github.com/HTV04/funkin-rewritten) ⚠️ Archived - A rewrite of FNF in lua that is very focused on optimization. Can also compile for Nintendo Switch homebrew.
-  * [Vanilla Engine](https://github.com/VanillaEngineDevs/Vanilla-Engine) ⭐ 25 | 🐛 0 | 🌐 Lua | 📅 2026-08-26 - A fork of Funkin' Rewritten that adds many QOL features and is more focused on modding.
+  * [Vanilla Engine](https://github.com/VanillaEngineDevs/Vanilla-Engine) ⭐ 25 | 🐛 0 | 🌐 Lua | 📅 2026-08-28 - A fork of Funkin' Rewritten that adds many QOL features and is more focused on modding.
 * [FNF LÖVE](https://github.com/Stilic/FNF-LOVE) ⭐ 57 | 🐛 0 | 🌐 Lua | 📅 2026-08-04 - A Lua recreation of FNF within the LÖVE2D framework. Can compile for Nintendo Switch Homebrew.
 * [FNF-Benjine](https://github.com/this-is-bennyk/FNF-Benjine) ⭐ 45 | 🐛 5 | 🌐 GDScript | 📅 2022-07-23 - Funkin' but in Godot, made by [BennyK](https://github.com/this-is-bennyk) and was used for [Funkin' VR](https://github.com/this-is-bennyk/Funkin-VR) ⚠️ Archived.
   * [FNF-Benjine Docs](https://github.com/this-is-bennyk/FNF-Benjine/wiki) ⭐ 45 | 🐛 5 | 🌐 GDScript | 📅 2022-07-23 - Godot Funkin' modding documentation.
@@ -205,7 +205,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 
 ## Art
 
-* [Base Game FLAs](https://github.com/FunkinCrew/Funkin/tree/master/art/flashFiles) ⭐ 3,749 | 🐛 917 | 🌐 Haxe | 📅 2026-08-27 - FLAs for Friday Night' Funkin from the GitHub repository.
+* [Base Game FLAs](https://github.com/FunkinCrew/Funkin/tree/master/art/flashFiles) ⭐ 3,750 | 🐛 914 | 🌐 Haxe | 📅 2026-08-27 - FLAs for Friday Night' Funkin from the GitHub repository.
 * [Week 7 Update FLAs](https://twitter.com/PhantomArcade3K/status/1521540912421257218) - FLAs for the Week 7 update including the stage, Tankman and cutscenes.
 * [FNF Logo SVG recreation](https://commons.wikimedia.org/wiki/File:FNF-Logo.svg) - Vector recreation of the FNF logo, so you can edit the shapes better and recolor it without a crappy fill bucket.
 
@@ -244,4 +244,4 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

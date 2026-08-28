@@ -21,7 +21,8 @@
                 "owner": "MaybeMaru",
                 "repo": "Aseprite-JSON-to-XML",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T05:49:56.956Z"
             }
           ]
         },
@@ -40,7 +41,8 @@
                 "owner": "oxipng",
                 "repo": "oxipng",
                 "stars": 4190
-              }
+              },
+              "first_seen": "2026-08-28T05:49:56.956Z"
             },
             {
               "node_type": "item",
@@ -55,7 +57,8 @@
                 "owner": "UncertainProd",
                 "repo": "FnF-Spritesheet-and-XML-Maker",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-28T05:49:56.956Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "Kade-github",
                 "repo": "SparrowAtlasResizer",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T05:49:56.956Z"
             }
           ],
           "description": null,
@@ -92,7 +96,8 @@
                 "owner": "MarkimusZer0",
                 "repo": "SmokeyTextureAtlas-Example",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T05:49:56.956Z"
             }
           ],
           "description": null,
@@ -114,11 +119,12 @@
             "archived": false,
             "id": 300816061,
             "language": "Haxe",
-            "last_commit": "2026-08-27T10:27:56Z",
+            "last_commit": "2026-08-27T17:06:06Z",
             "owner": "FunkinCrew",
             "repo": "Funkin",
-            "stars": 3749
-          }
+            "stars": 3750
+          },
+          "first_seen": "2026-08-28T05:49:56.956Z"
         },
         {
           "children": [
@@ -139,8 +145,9 @@
                     "last_commit": "2025-03-24T18:03:54Z",
                     "owner": "ShadowMario",
                     "repo": "FNF-PsychEngine",
-                    "stars": 1417
-                  }
+                    "stars": 1418
+                  },
+                  "first_seen": "2026-08-28T05:49:56.956Z"
                 },
                 {
                   "node_type": "item",
@@ -155,7 +162,8 @@
                     "owner": "MemeFlavor",
                     "repo": "PsychWiki",
                     "stars": 51
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:49:56.956Z"
                 },
                 {
                   "node_type": "item",
@@ -170,7 +178,8 @@
                     "owner": "riconuts",
                     "repo": "troll-engine",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:49:56.956Z"
                 }
               ],
               "repo_info": {
@@ -180,8 +189,9 @@
                 "last_commit": "2025-03-24T18:03:54Z",
                 "owner": "ShadowMario",
                 "repo": "FNF-PsychEngine",
-                "stars": 1417
-              }
+                "stars": 1418
+              },
+              "first_seen": "2026-08-28T05:49:56.956Z"
             },
             {
               "node_type": "item",
@@ -201,7 +211,8 @@
                     "owner": "CodenameCrew",
                     "repo": "CodenameEngine",
                     "stars": 470
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:49:56.956Z"
                 }
               ],
               "repo_info": {
@@ -212,7 +223,8 @@
                 "owner": "CodenameCrew",
                 "repo": "CodenameEngine",
                 "stars": 470
-              }
+              },
+              "first_seen": "2026-08-28T05:49:56.956Z"
             },
             {
               "node_type": "item",
@@ -226,8 +238,9 @@
                 "last_commit": "2026-08-26T23:52:47Z",
                 "owner": "ThatRozebudDude",
                 "repo": "FPS-Plus-Public",
-                "stars": 159
-              }
+                "stars": 161
+              },
+              "first_seen": "2026-08-28T05:49:56.956Z"
             },
             {
               "node_type": "item",
@@ -242,7 +255,8 @@
                 "owner": "Leather128",
                 "repo": "LeatherEngine",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T05:49:56.956Z"
             },
             {
               "node_type": "item",
@@ -257,7 +271,8 @@
                 "owner": "EyeDaleHim",
                 "repo": "Crow-Engine",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T05:49:56.956Z"
             },
             {
               "node_type": "item",
@@ -272,7 +287,8 @@
                 "owner": "superpowers04",
                 "repo": "Super-Engine",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T05:49:56.956Z"
             },
             {
               "node_type": "item",
@@ -287,7 +303,8 @@
                 "owner": "Altronix-Team",
                 "repo": "FNF-AltronixEngine",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T05:49:56.956Z"
             },
             {
               "node_type": "group",
@@ -307,7 +324,8 @@
                     "owner": "TheRealJake12",
                     "repo": "Kade-Engine-Community",
                     "stars": 41
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:49:56.956Z"
                 },
                 {
                   "node_type": "item",
@@ -327,7 +345,8 @@
                         "owner": "BoloVEVO",
                         "repo": "Kade-Engine",
                         "stars": 32
-                      }
+                      },
+                      "first_seen": "2026-08-28T05:49:56.956Z"
                     }
                   ],
                   "repo_info": {
@@ -338,7 +357,8 @@
                     "owner": "BoloVEVO",
                     "repo": "Kade-Engine",
                     "stars": 32
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:49:56.956Z"
                 },
                 {
                   "node_type": "item",
@@ -358,7 +378,8 @@
                         "owner": "skullbite",
                         "repo": "Edak-Engine",
                         "stars": 12
-                      }
+                      },
+                      "first_seen": "2026-08-28T05:49:56.956Z"
                     }
                   ],
                   "repo_info": {
@@ -369,7 +390,8 @@
                     "owner": "skullbite",
                     "repo": "Edak-Engine",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:49:56.956Z"
                 }
               ]
             },
@@ -391,7 +413,8 @@
                     "owner": "AFunkinDisappointment",
                     "repo": "DisappointingPlus",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:49:56.956Z"
                 }
               ]
             }
@@ -415,7 +438,8 @@
                 "owner": "luckydog7",
                 "repo": "Funkin-android",
                 "stars": 221
-              }
+              },
+              "first_seen": "2026-08-28T05:49:56.956Z"
             },
             {
               "node_type": "item",
@@ -430,7 +454,8 @@
                 "owner": "cuckydev",
                 "repo": "PSXFunkin",
                 "stars": 217
-              }
+              },
+              "first_seen": "2026-08-28T05:49:56.956Z"
             },
             {
               "node_type": "item",
@@ -446,11 +471,12 @@
                     "archived": false,
                     "id": 492981241,
                     "language": "Lua",
-                    "last_commit": "2026-08-26T21:52:02Z",
+                    "last_commit": "2026-08-28T02:01:24Z",
                     "owner": "VanillaEngineDevs",
                     "repo": "Vanilla-Engine",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:49:56.956Z"
                 }
               ],
               "repo_info": {
@@ -461,7 +487,8 @@
                 "owner": "htv04",
                 "repo": "funkin-rewritten",
                 "stars": 132
-              }
+              },
+              "first_seen": "2026-08-28T05:49:56.956Z"
             },
             {
               "node_type": "item",
@@ -476,7 +503,8 @@
                 "owner": "stilic",
                 "repo": "FNF-LOVE",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T05:49:56.956Z"
             },
             {
               "node_type": "item",
@@ -496,7 +524,8 @@
                     "owner": "this-is-bennyk",
                     "repo": "FNF-Benjine",
                     "stars": 45
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:49:56.956Z"
                 }
               ],
               "repo_info": {
@@ -507,7 +536,8 @@
                 "owner": "this-is-bennyk",
                 "repo": "FNF-Benjine",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T05:49:56.956Z"
             },
             {
               "node_type": "item",
@@ -522,7 +552,8 @@
                 "owner": "hadobedo",
                 "repo": "FunkiniOS",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T05:49:56.956Z"
             },
             {
               "node_type": "item",
@@ -537,7 +568,8 @@
                 "owner": "GuglioIsStupid",
                 "repo": "Funkin3D",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T05:49:56.956Z"
             },
             {
               "node_type": "item",
@@ -552,7 +584,8 @@
                 "owner": "Square789",
                 "repo": "PydayNightFunkin",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T05:49:56.956Z"
             },
             {
               "node_type": "item",
@@ -567,7 +600,8 @@
                 "owner": "MatheusSilver",
                 "repo": "BS-Engine-Mobile-Legacy",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T05:49:56.956Z"
             },
             {
               "node_type": "item",
@@ -582,7 +616,8 @@
                 "owner": "FNF-Mod-Porting",
                 "repo": "Funkin",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T05:49:56.956Z"
             }
           ],
           "description": null,
@@ -604,7 +639,8 @@
                 "owner": "Snirozu",
                 "repo": "Funkin-Script-AutoComplete",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T05:49:56.956Z"
             }
           ],
           "description": null,
@@ -631,7 +667,8 @@
                     "owner": "HaxeFlixel",
                     "repo": "flixel-demos",
                     "stars": 464
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:49:56.956Z"
                 }
               ]
             },
@@ -653,7 +690,8 @@
                     "owner": "HaxeFlixel",
                     "repo": "flixel-demos",
                     "stars": 464
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:49:56.956Z"
                 }
               ]
             }
@@ -681,7 +719,8 @@
             "owner": "PrincessMtH",
             "repo": "SNIFF",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T05:49:56.956Z"
         },
         {
           "node_type": "item",
@@ -696,7 +735,8 @@
             "owner": "MaybeMaru",
             "repo": "moonchart",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T05:49:56.956Z"
         },
         {
           "node_type": "item",
@@ -716,7 +756,8 @@
                 "owner": "kadedev",
                 "repo": "Kade-Engine",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T05:49:56.956Z"
             },
             {
               "node_type": "item",
@@ -731,7 +772,8 @@
                 "owner": "toony3243",
                 "repo": "SM-to-FNF-Dance-Double",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T05:49:56.956Z"
             }
           ],
           "repo_info": {
@@ -742,14 +784,15 @@
             "owner": "Ashen-Haze",
             "repo": "fnf-to-sm",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T05:49:56.956Z"
         }
       ],
       "title": "Charting"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:44:35.193Z",
+    "last_updated": "2026-08-28T05:49:56.956Z",
     "original_repository_info": {
       "archived": false,
       "id": 592599489,
