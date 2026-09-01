@@ -51,11 +51,11 @@
                 "id": 49436331,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-08-24T13:44:29Z",
-                "open_issues": 34,
+                "last_commit": "2026-08-31T13:43:53Z",
+                "open_issues": 35,
                 "owner": "oxipng",
                 "repo": "oxipng",
-                "stars": 4194,
+                "stars": 4195,
                 "topics": [
                   "image-compression",
                   "image-optimization",
@@ -167,7 +167,7 @@
             "language": "Haxe",
             "license": "NOASSERTION",
             "last_commit": "2026-08-30T21:13:44Z",
-            "open_issues": 900,
+            "open_issues": 903,
             "owner": "FunkinCrew",
             "repo": "Funkin",
             "stars": 3750,
@@ -204,7 +204,7 @@
                     "open_issues": 1,
                     "owner": "ShadowMario",
                     "repo": "FNF-PsychEngine",
-                    "stars": 1418,
+                    "stars": 1417,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:56.956Z"
@@ -269,7 +269,7 @@
                 "open_issues": 1,
                 "owner": "ShadowMario",
                 "repo": "FNF-PsychEngine",
-                "stars": 1418,
+                "stars": 1417,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:56.956Z"
@@ -291,7 +291,7 @@
                     "id": 545729748,
                     "language": "Haxe",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-30T20:36:42Z",
+                    "last_commit": "2026-08-31T16:09:42Z",
                     "open_issues": 66,
                     "owner": "CodenameCrew",
                     "repo": "CodenameEngine",
@@ -315,7 +315,7 @@
                 "id": 545729748,
                 "language": "Haxe",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-30T20:36:42Z",
+                "last_commit": "2026-08-31T16:09:42Z",
                 "open_issues": 66,
                 "owner": "CodenameCrew",
                 "repo": "CodenameEngine",
@@ -1129,7 +1129,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T23:56:22.722Z",
+    "last_updated": "2026-09-01T00:48:15.680Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community curated resources for Friday Night Funkin'",
@@ -1138,7 +1138,7 @@
       "language": "JavaScript",
       "license": "CC0-1.0",
       "last_commit": "2026-05-23T00:54:32Z",
-      "open_issues": 26,
+      "open_issues": 27,
       "owner": "FunkinCrew",
       "repo": "awesome-funkin-resources",
       "stars": 241,
