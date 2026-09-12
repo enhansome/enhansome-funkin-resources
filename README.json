@@ -167,10 +167,10 @@
             "language": "Haxe",
             "license": "NOASSERTION",
             "last_commit": "2026-09-10T14:29:09Z",
-            "open_issues": 917,
+            "open_issues": 919,
             "owner": "FunkinCrew",
             "repo": "Funkin",
-            "stars": 3755,
+            "stars": 3757,
             "topics": [
               "game",
               "gamedev",
@@ -291,8 +291,8 @@
                     "id": 545729748,
                     "language": "Haxe",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-11T23:11:33Z",
-                    "open_issues": 65,
+                    "last_commit": "2026-09-12T23:20:09Z",
+                    "open_issues": 59,
                     "owner": "CodenameCrew",
                     "repo": "CodenameEngine",
                     "stars": 477,
@@ -315,8 +315,8 @@
                 "id": 545729748,
                 "language": "Haxe",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T23:11:33Z",
-                "open_issues": 65,
+                "last_commit": "2026-09-12T23:20:09Z",
+                "open_issues": 59,
                 "owner": "CodenameCrew",
                 "repo": "CodenameEngine",
                 "stars": 477,
@@ -343,7 +343,7 @@
                 "id": 376966646,
                 "language": "Haxe",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-10T06:50:46Z",
+                "last_commit": "2026-09-12T05:13:42Z",
                 "open_issues": 2,
                 "owner": "ThatRozebudDude",
                 "repo": "FPS-Plus-Public",
@@ -1052,7 +1052,7 @@
             "open_issues": 7,
             "owner": "MaybeMaru",
             "repo": "moonchart",
-            "stars": 54,
+            "stars": 55,
             "topics": [
               "haxe",
               "haxelib"
@@ -1129,7 +1129,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T23:33:25.757Z",
+    "last_updated": "2026-09-12T23:26:20.895Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community curated resources for Friday Night Funkin'",
