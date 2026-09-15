@@ -55,7 +55,7 @@
                 "open_issues": 32,
                 "owner": "oxipng",
                 "repo": "oxipng",
-                "stars": 4221,
+                "stars": 4223,
                 "topics": [
                   "image-compression",
                   "image-optimization",
@@ -166,8 +166,8 @@
             "id": 300816061,
             "language": "Haxe",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-10T14:29:09Z",
-            "open_issues": 921,
+            "last_commit": "2026-09-15T15:50:57Z",
+            "open_issues": 922,
             "owner": "FunkinCrew",
             "repo": "Funkin",
             "stars": 3761,
@@ -292,7 +292,7 @@
                     "language": "Haxe",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-14T22:06:48Z",
-                    "open_issues": 63,
+                    "open_issues": 65,
                     "owner": "CodenameCrew",
                     "repo": "CodenameEngine",
                     "stars": 479,
@@ -316,7 +316,7 @@
                 "language": "Haxe",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-14T22:06:48Z",
-                "open_issues": 63,
+                "open_issues": 65,
                 "owner": "CodenameCrew",
                 "repo": "CodenameEngine",
                 "stars": 479,
@@ -343,7 +343,7 @@
                 "id": 376966646,
                 "language": "Haxe",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-13T17:50:47Z",
+                "last_commit": "2026-09-15T23:33:59Z",
                 "open_issues": 2,
                 "owner": "ThatRozebudDude",
                 "repo": "FPS-Plus-Public",
@@ -959,7 +959,7 @@
                     "open_issues": 24,
                     "owner": "HaxeFlixel",
                     "repo": "flixel-demos",
-                    "stars": 464,
+                    "stars": 463,
                     "topics": [
                       "demo",
                       "haxeflixel",
@@ -992,7 +992,7 @@
                     "open_issues": 24,
                     "owner": "HaxeFlixel",
                     "repo": "flixel-demos",
-                    "stars": 464,
+                    "stars": 463,
                     "topics": [
                       "demo",
                       "haxeflixel",
@@ -1129,7 +1129,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T00:00:53.031Z",
+    "last_updated": "2026-09-15T23:44:29.047Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community curated resources for Friday Night Funkin'",
