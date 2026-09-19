@@ -167,7 +167,7 @@
             "language": "Haxe",
             "license": "NOASSERTION",
             "last_commit": "2026-09-18T19:21:02Z",
-            "open_issues": 927,
+            "open_issues": 928,
             "owner": "FunkinCrew",
             "repo": "Funkin",
             "stars": 3758,
@@ -291,7 +291,7 @@
                     "id": 545729748,
                     "language": "Haxe",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-18T17:00:11Z",
+                    "last_commit": "2026-09-19T12:28:55Z",
                     "open_issues": 70,
                     "owner": "CodenameCrew",
                     "repo": "CodenameEngine",
@@ -315,7 +315,7 @@
                 "id": 545729748,
                 "language": "Haxe",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T17:00:11Z",
+                "last_commit": "2026-09-19T12:28:55Z",
                 "open_issues": 70,
                 "owner": "CodenameCrew",
                 "repo": "CodenameEngine",
@@ -1129,7 +1129,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T23:36:47.384Z",
+    "last_updated": "2026-09-19T23:36:54.258Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community curated resources for Friday Night Funkin'",
