@@ -14,7 +14,7 @@ Check out **[the official Funkin' Blog](https://funkin.me/blog/)**
 
 Contributions are welcome! Add links through pull requests or create an issue to start a discussion.
 
-Unsure what to contribute? Check out the `good first issue` [tagged GitHub issues](https://github.com/FunkinCrew/funkin-resources/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) ⭐ 244 | 🐛 30 | 🌐 JavaScript | 📅 2026-05-23 and read our [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)!
+Unsure what to contribute? Check out the `good first issue` [tagged GitHub issues](https://github.com/FunkinCrew/funkin-resources/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) ⭐ 244 | 🐛 31 | 🌐 JavaScript | 📅 2026-05-23 and read our [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)!
 
 <!-- 
   HTML is valid in GitHub markdown.
@@ -112,7 +112,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 
 ## Programming
 
-* [Friday Night Funkin' Official Source Code](https://github.com/FunkinCrew/funkin) ⭐ 3,765 | 🐛 926 | 🌐 Haxe | 📅 2026-09-21 - The original open source game by The Funkin' Crew. Last updated for The Mobile Port.
+* [Friday Night Funkin' Official Source Code](https://github.com/FunkinCrew/funkin) ⭐ 3,765 | 🐛 933 | 🌐 Haxe | 📅 2026-09-21 - The original open source game by The Funkin' Crew. Last updated for The Mobile Port.
 
 ### Engines and Forks
 
@@ -133,10 +133,10 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
   * [Alternative wiki for Psych Engine](https://github.com/CaptainBaldi/PsychRewrittenWiki/wiki) - Made by [CaptainBaldi](https://github.com/CaptainBaldi) and contributors.
   * [Funkin Cocoa](https://github.com/TheWorldMachinima/FunkinCocoa) - A rewrite of base game (Psych 0.4). Aims to be as customizable as possible. Supports advanced HScript scripting using [SScript](https://github.com/TheWorldMachinima/SScript).
 
-* [Codename Engine](https://github.com/YoshiCrafter29/CodenameEngine) ⭐ 481 | 🐛 73 | 🌐 Haxe | 📅 2026-09-22 - A fork of base game that provides full HScript support for advanced softcoding, along with sorted and half rewritten source for optimisation and ease of use.
-  * [Codename Engine Docs](https://github.com/YoshiCrafter29/CodenameEngine/wiki) ⭐ 481 | 🐛 73 | 🌐 Haxe | 📅 2026-09-22 - Codename Engine modding documenation.
+* [Codename Engine](https://github.com/YoshiCrafter29/CodenameEngine) ⭐ 482 | 🐛 74 | 🌐 Haxe | 📅 2026-09-23 - A fork of base game that provides full HScript support for advanced softcoding, along with sorted and half rewritten source for optimisation and ease of use.
+  * [Codename Engine Docs](https://github.com/YoshiCrafter29/CodenameEngine/wiki) ⭐ 482 | 🐛 74 | 🌐 Haxe | 📅 2026-09-23 - Codename Engine modding documenation.
 
-* [FPS Plus](https://github.com/ThatRozebudDude/FPS-Plus-Public) ⭐ 162 | 🐛 2 | 🌐 Haxe | 📅 2026-09-22 - A fork of Funkin', as the name suggests, with higher framerate, better input system, rebindable keys and more. [B-Side Redux](https://gamebanana.com/mods/42724) was made on this engine.
+* [FPS Plus](https://github.com/ThatRozebudDude/FPS-Plus-Public) ⭐ 162 | 🐛 2 | 🌐 Haxe | 📅 2026-09-23 - A fork of Funkin', as the name suggests, with higher framerate, better input system, rebindable keys and more. [B-Side Redux](https://gamebanana.com/mods/42724) was made on this engine.
 
 * [Leather Engine](https://github.com/Leather128/LeatherEngine) ⚠️ Archived - An engine that includes 1-21 key support, supports mod loading with Polymod and has other useful features like a stage editor.)
 
@@ -205,7 +205,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 
 ## Art
 
-* [Base Game FLAs](https://github.com/FunkinCrew/Funkin/tree/master/art/flashFiles) ⭐ 3,765 | 🐛 926 | 🌐 Haxe | 📅 2026-09-21 - FLAs for Friday Night' Funkin from the GitHub repository.
+* [Base Game FLAs](https://github.com/FunkinCrew/Funkin/tree/master/art/flashFiles) ⭐ 3,765 | 🐛 933 | 🌐 Haxe | 📅 2026-09-21 - FLAs for Friday Night' Funkin from the GitHub repository.
 * [Week 7 Update FLAs](https://twitter.com/PhantomArcade3K/status/1521540912421257218) - FLAs for the Week 7 update including the stage, Tankman and cutscenes.
 * [FNF Logo SVG recreation](https://commons.wikimedia.org/wiki/File:FNF-Logo.svg) - Vector recreation of the FNF logo, so you can edit the shapes better and recolor it without a crappy fill bucket.
 
@@ -244,4 +244,4 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
