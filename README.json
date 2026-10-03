@@ -167,7 +167,7 @@
             "language": "Haxe",
             "license": "NOASSERTION",
             "last_commit": "2026-09-29T17:37:25Z",
-            "open_issues": 939,
+            "open_issues": 940,
             "owner": "FunkinCrew",
             "repo": "Funkin",
             "stars": 3781,
@@ -291,8 +291,8 @@
                     "id": 545729748,
                     "language": "Haxe",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T21:22:05Z",
-                    "open_issues": 44,
+                    "last_commit": "2026-10-03T04:28:56Z",
+                    "open_issues": 41,
                     "owner": "CodenameCrew",
                     "repo": "CodenameEngine",
                     "stars": 485,
@@ -315,8 +315,8 @@
                 "id": 545729748,
                 "language": "Haxe",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T21:22:05Z",
-                "open_issues": 44,
+                "last_commit": "2026-10-03T04:28:56Z",
+                "open_issues": 41,
                 "owner": "CodenameCrew",
                 "repo": "CodenameEngine",
                 "stars": 485,
@@ -417,7 +417,7 @@
                 "id": 374282546,
                 "language": "Haxe",
                 "license": "Apache-2.0",
-                "last_commit": "2026-05-23T05:14:39Z",
+                "last_commit": "2026-10-03T00:41:11Z",
                 "open_issues": 8,
                 "owner": "superpowers04",
                 "repo": "Super-Engine",
@@ -946,7 +946,7 @@
                 {
                   "node_type": "item",
                   "title": "GitHub repository for abovementioned demos",
-                  "description": null,
+                  "description": "HaxeFlixel/flixel-demos",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -979,7 +979,7 @@
                 {
                   "node_type": "item",
                   "title": "GitHub source code for TurnBasedRPG",
-                  "description": null,
+                  "description": "HaxeFlixel/flixel-demos",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1129,7 +1129,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:45:24.873Z",
+    "last_updated": "2026-10-03T04:45:03.047Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community curated resources for Friday Night Funkin'",
