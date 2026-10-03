@@ -55,7 +55,7 @@
                 "open_issues": 36,
                 "owner": "oxipng",
                 "repo": "oxipng",
-                "stars": 4249,
+                "stars": 4250,
                 "topics": [
                   "image-compression",
                   "image-optimization",
@@ -170,7 +170,7 @@
             "open_issues": 939,
             "owner": "FunkinCrew",
             "repo": "Funkin",
-            "stars": 3780,
+            "stars": 3781,
             "topics": [
               "game",
               "gamedev",
@@ -291,8 +291,8 @@
                     "id": 545729748,
                     "language": "Haxe",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-01T17:50:16Z",
-                    "open_issues": 79,
+                    "last_commit": "2026-10-02T21:22:05Z",
+                    "open_issues": 44,
                     "owner": "CodenameCrew",
                     "repo": "CodenameEngine",
                     "stars": 485,
@@ -315,8 +315,8 @@
                 "id": 545729748,
                 "language": "Haxe",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T17:50:16Z",
-                "open_issues": 79,
+                "last_commit": "2026-10-02T21:22:05Z",
+                "open_issues": 44,
                 "owner": "CodenameCrew",
                 "repo": "CodenameEngine",
                 "stars": 485,
@@ -1129,7 +1129,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T01:05:40.365Z",
+    "last_updated": "2026-10-03T00:45:24.873Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community curated resources for Friday Night Funkin'",
