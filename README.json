@@ -55,7 +55,7 @@
                 "open_issues": 36,
                 "owner": "oxipng",
                 "repo": "oxipng",
-                "stars": 4251,
+                "stars": 4254,
                 "topics": [
                   "image-compression",
                   "image-optimization",
@@ -110,7 +110,7 @@
                 "open_issues": 0,
                 "owner": "Kade-github",
                 "repo": "SparrowAtlasResizer",
-                "stars": 17,
+                "stars": 18,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:56.956Z"
@@ -167,7 +167,7 @@
             "language": "Haxe",
             "license": "NOASSERTION",
             "last_commit": "2026-09-29T17:37:25Z",
-            "open_issues": 940,
+            "open_issues": 941,
             "owner": "FunkinCrew",
             "repo": "Funkin",
             "stars": 3783,
@@ -204,7 +204,7 @@
                     "open_issues": 1,
                     "owner": "ShadowMario",
                     "repo": "FNF-PsychEngine",
-                    "stars": 1420,
+                    "stars": 1421,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:56.956Z"
@@ -269,7 +269,7 @@
                 "open_issues": 1,
                 "owner": "ShadowMario",
                 "repo": "FNF-PsychEngine",
-                "stars": 1420,
+                "stars": 1421,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:56.956Z"
@@ -291,11 +291,11 @@
                     "id": 545729748,
                     "language": "Haxe",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-03T23:49:41Z",
-                    "open_issues": 39,
+                    "last_commit": "2026-10-04T22:47:50Z",
+                    "open_issues": 40,
                     "owner": "CodenameCrew",
                     "repo": "CodenameEngine",
-                    "stars": 485,
+                    "stars": 486,
                     "topics": [
                       "cne",
                       "codename-engine",
@@ -315,11 +315,11 @@
                 "id": 545729748,
                 "language": "Haxe",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T23:49:41Z",
-                "open_issues": 39,
+                "last_commit": "2026-10-04T22:47:50Z",
+                "open_issues": 40,
                 "owner": "CodenameCrew",
                 "repo": "CodenameEngine",
-                "stars": 485,
+                "stars": 486,
                 "topics": [
                   "cne",
                   "codename-engine",
@@ -343,7 +343,7 @@
                 "id": 376966646,
                 "language": "Haxe",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-24T08:16:47Z",
+                "last_commit": "2026-10-04T22:56:44Z",
                 "open_issues": 2,
                 "owner": "ThatRozebudDude",
                 "repo": "FPS-Plus-Public",
@@ -1129,7 +1129,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T00:06:27.277Z",
+    "last_updated": "2026-10-05T00:12:30.016Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community curated resources for Friday Night Funkin'",
@@ -1141,7 +1141,7 @@
       "open_issues": 32,
       "owner": "FunkinCrew",
       "repo": "awesome-funkin-resources",
-      "stars": 247,
+      "stars": 248,
       "topics": [
         "awesome",
         "awesome-list",
