@@ -51,7 +51,7 @@
                 "id": 49436331,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-12T04:05:46Z",
+                "last_commit": "2026-10-21T20:23:46Z",
                 "open_issues": 35,
                 "owner": "oxipng",
                 "repo": "oxipng",
@@ -166,11 +166,11 @@
             "id": 300816061,
             "language": "Haxe",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-20T07:28:24Z",
-            "open_issues": 952,
+            "last_commit": "2026-10-21T23:28:54Z",
+            "open_issues": 947,
             "owner": "FunkinCrew",
             "repo": "Funkin",
-            "stars": 3808,
+            "stars": 3809,
             "topics": [
               "game",
               "gamedev",
@@ -204,7 +204,7 @@
                     "open_issues": 1,
                     "owner": "ShadowMario",
                     "repo": "FNF-PsychEngine",
-                    "stars": 1426,
+                    "stars": 1425,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:56.956Z"
@@ -269,7 +269,7 @@
                 "open_issues": 1,
                 "owner": "ShadowMario",
                 "repo": "FNF-PsychEngine",
-                "stars": 1426,
+                "stars": 1425,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:56.956Z"
@@ -343,7 +343,7 @@
                 "id": 376966646,
                 "language": "Haxe",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-19T17:39:46Z",
+                "last_commit": "2026-10-21T11:58:07Z",
                 "open_issues": 2,
                 "owner": "ThatRozebudDude",
                 "repo": "FPS-Plus-Public",
@@ -1129,7 +1129,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T00:10:00.659Z",
+    "last_updated": "2026-10-22T00:15:32.590Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community curated resources for Friday Night Funkin'",
