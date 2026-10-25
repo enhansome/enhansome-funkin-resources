@@ -64,7 +64,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 
 ### Spritesheet Generation
 
-* [oxipng](https://github.com/shssoichiro/oxipng) ⭐ 4,292 | 🐛 34 | 🌐 Rust | 📅 2026-10-21 - Simple program for general image optimization but also works nicely with FNF Sprite Sheets.
+* [oxipng](https://github.com/shssoichiro/oxipng) ⭐ 4,295 | 🐛 34 | 🌐 Rust | 📅 2026-10-21 - Simple program for general image optimization but also works nicely with FNF Sprite Sheets.
 * [FNF Spritesheet and XML Maker](https://github.com/UncertainProd/FnF-Spritesheet-and-XML-Maker) ⭐ 89 | 🐛 53 | 🌐 Python | 📅 2023-06-15 - Combines individual frames together into spritesheets for FNF, and helps you manage animations.
 * [Sparrow Atlas Resizer](https://github.com/KadeDev/SparrowAtlasResizer) ⭐ 18 | 🐛 0 | 🌐 C# | 📅 2023-01-02 - Simple program for resizing sparrow atlas PNG and XML files.
 * [Free Texture Packer](http://free-tex-packer.com/) - Combines individual frames together into spritesheets. Has options to remove duplicate frames and rearrange frames to minimize texture size. Make sure to select `Starling` as the output format.
@@ -112,7 +112,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 
 ## Programming
 
-* [Friday Night Funkin' Official Source Code](https://github.com/FunkinCrew/funkin) ⭐ 3,813 | 🐛 962 | 🌐 Haxe | 📅 2026-10-24 - The original open source game by The Funkin' Crew. Last updated for The Mobile Port.
+* [Friday Night Funkin' Official Source Code](https://github.com/FunkinCrew/funkin) ⭐ 3,815 | 🐛 965 | 🌐 Haxe | 📅 2026-10-24 - The original open source game by The Funkin' Crew. Last updated for The Mobile Port.
 
 ### Engines and Forks
 
@@ -133,8 +133,8 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
   * [Alternative wiki for Psych Engine](https://github.com/CaptainBaldi/PsychRewrittenWiki/wiki) - Made by [CaptainBaldi](https://github.com/CaptainBaldi) and contributors.
   * [Funkin Cocoa](https://github.com/TheWorldMachinima/FunkinCocoa) - A rewrite of base game (Psych 0.4). Aims to be as customizable as possible. Supports advanced HScript scripting using [SScript](https://github.com/TheWorldMachinima/SScript).
 
-* [Codename Engine](https://github.com/YoshiCrafter29/CodenameEngine) ⭐ 493 | 🐛 39 | 🌐 Haxe | 📅 2026-10-24 - A fork of base game that provides full HScript support for advanced softcoding, along with sorted and half rewritten source for optimisation and ease of use.
-  * [Codename Engine Docs](https://github.com/YoshiCrafter29/CodenameEngine/wiki) ⭐ 493 | 🐛 39 | 🌐 Haxe | 📅 2026-10-24 - Codename Engine modding documenation.
+* [Codename Engine](https://github.com/YoshiCrafter29/CodenameEngine) ⭐ 494 | 🐛 40 | 🌐 Haxe | 📅 2026-10-24 - A fork of base game that provides full HScript support for advanced softcoding, along with sorted and half rewritten source for optimisation and ease of use.
+  * [Codename Engine Docs](https://github.com/YoshiCrafter29/CodenameEngine/wiki) ⭐ 494 | 🐛 40 | 🌐 Haxe | 📅 2026-10-24 - Codename Engine modding documenation.
 
 * [FPS Plus](https://github.com/ThatRozebudDude/FPS-Plus-Public) ⭐ 162 | 🐛 2 | 🌐 Haxe | 📅 2026-10-23 - A fork of Funkin', as the name suggests, with higher framerate, better input system, rebindable keys and more. [B-Side Redux](https://gamebanana.com/mods/42724) was made on this engine.
 
@@ -205,7 +205,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 
 ## Art
 
-* [Base Game FLAs](https://github.com/FunkinCrew/Funkin/tree/master/art/flashFiles) ⭐ 3,813 | 🐛 962 | 🌐 Haxe | 📅 2026-10-24 - FLAs for Friday Night' Funkin from the GitHub repository.
+* [Base Game FLAs](https://github.com/FunkinCrew/Funkin/tree/master/art/flashFiles) ⭐ 3,815 | 🐛 965 | 🌐 Haxe | 📅 2026-10-24 - FLAs for Friday Night' Funkin from the GitHub repository.
 * [Week 7 Update FLAs](https://twitter.com/PhantomArcade3K/status/1521540912421257218) - FLAs for the Week 7 update including the stage, Tankman and cutscenes.
 * [FNF Logo SVG recreation](https://commons.wikimedia.org/wiki/File:FNF-Logo.svg) - Vector recreation of the FNF logo, so you can edit the shapes better and recolor it without a crappy fill bucket.
 
@@ -215,7 +215,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 
 ## Charting
 
-* [SNIFF - SiIva Note Importer for FNF](https://github.com/PrincessMtH/SNIFF) ⭐ 56 | 🐛 14 | 🌐 C# | 📅 2022-02-28 - Tool to convert charts made in FL Studio to .json files usable in Friday Night Funkin'.
+* [SNIFF - SiIva Note Importer for FNF](https://github.com/PrincessMtH/SNIFF) ⭐ 56 | 🐛 13 | 🌐 C# | 📅 2022-02-28 - Tool to convert charts made in FL Studio to .json files usable in Friday Night Funkin'.
 * [Moonchart](https://github.com/MaybeMaru/moonchart) ⭐ 55 | 🐛 8 | 🌐 Haxe | 📅 2026-10-12 - Haxe library able to manage and convert charts made between multiple rhythm games to files usable in many Friday Night Funkin' versions and engines.
 * [fnf-to-sm](https://github.com/Ashen-Haze/fnf-to-sm) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2021-08-31 - A fork of a [fork](https://github.com/KadeDev/fnf-to-sm) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2021-08-31 from the original [fnf-to-sm repository](https://github.com/shockdude/fnf-to-sm) ⚠️ Archived. Converts Funkin' .json charts to StepMania simfiles and vice versa.
   * Alternatively, using [version 1.7 of Kade Engine](https://github.com/KadeDev/Kade-Engine/releases/tag/1.7) ⭐ 29 | 🐛 0 | 🌐 Haxe | 📅 2023-08-05 also has a simfile to .json converter.
@@ -244,4 +244,4 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._

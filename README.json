@@ -55,7 +55,7 @@
                 "open_issues": 34,
                 "owner": "oxipng",
                 "repo": "oxipng",
-                "stars": 4292,
+                "stars": 4295,
                 "topics": [
                   "image-compression",
                   "image-optimization",
@@ -167,10 +167,10 @@
             "language": "Haxe",
             "license": "NOASSERTION",
             "last_commit": "2026-10-24T22:14:21Z",
-            "open_issues": 962,
+            "open_issues": 965,
             "owner": "FunkinCrew",
             "repo": "Funkin",
-            "stars": 3813,
+            "stars": 3815,
             "topics": [
               "game",
               "gamedev",
@@ -204,7 +204,7 @@
                     "open_issues": 1,
                     "owner": "ShadowMario",
                     "repo": "FNF-PsychEngine",
-                    "stars": 1423,
+                    "stars": 1425,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:49:56.956Z"
@@ -269,7 +269,7 @@
                 "open_issues": 1,
                 "owner": "ShadowMario",
                 "repo": "FNF-PsychEngine",
-                "stars": 1423,
+                "stars": 1425,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:56.956Z"
@@ -292,10 +292,10 @@
                     "language": "Haxe",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-24T11:14:30Z",
-                    "open_issues": 39,
+                    "open_issues": 40,
                     "owner": "CodenameCrew",
                     "repo": "CodenameEngine",
-                    "stars": 493,
+                    "stars": 494,
                     "topics": [
                       "cne",
                       "codename-engine",
@@ -316,10 +316,10 @@
                 "language": "Haxe",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-24T11:14:30Z",
-                "open_issues": 39,
+                "open_issues": 40,
                 "owner": "CodenameCrew",
                 "repo": "CodenameEngine",
-                "stars": 493,
+                "stars": 494,
                 "topics": [
                   "cne",
                   "codename-engine",
@@ -1028,7 +1028,7 @@
             "language": "C#",
             "license": null,
             "last_commit": "2022-02-28T01:02:21Z",
-            "open_issues": 14,
+            "open_issues": 13,
             "owner": "PrincessMtH",
             "repo": "SNIFF",
             "stars": 56,
@@ -1129,7 +1129,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T23:45:51.298Z",
+    "last_updated": "2026-10-25T23:35:41.437Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community curated resources for Friday Night Funkin'",
