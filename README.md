@@ -14,7 +14,7 @@ Check out **[the official Funkin' Blog](https://funkin.me/blog/)**
 
 Contributions are welcome! Add links through pull requests or create an issue to start a discussion.
 
-Unsure what to contribute? Check out the `good first issue` [tagged GitHub issues](https://github.com/FunkinCrew/funkin-resources/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) ⭐ 248 | 🐛 36 | 🌐 JavaScript | 📅 2026-05-23 and read our [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)!
+Unsure what to contribute? Check out the `good first issue` [tagged GitHub issues](https://github.com/FunkinCrew/funkin-resources/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) ⭐ 247 | 🐛 36 | 🌐 JavaScript | 📅 2026-05-23 and read our [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)!
 
 <!-- 
   HTML is valid in GitHub markdown.
@@ -112,7 +112,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 
 ## Programming
 
-* [Friday Night Funkin' Official Source Code](https://github.com/FunkinCrew/funkin) ⭐ 3,828 | 🐛 965 | 🌐 Haxe | 📅 2026-11-03 - The original open source game by The Funkin' Crew. Last updated for The Mobile Port.
+* [Friday Night Funkin' Official Source Code](https://github.com/FunkinCrew/funkin) ⭐ 3,829 | 🐛 958 | 🌐 Haxe | 📅 2026-11-05 - The original open source game by The Funkin' Crew. Last updated for The Mobile Port.
 
 ### Engines and Forks
 
@@ -133,8 +133,8 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
   * [Alternative wiki for Psych Engine](https://github.com/CaptainBaldi/PsychRewrittenWiki/wiki) - Made by [CaptainBaldi](https://github.com/CaptainBaldi) and contributors.
   * [Funkin Cocoa](https://github.com/TheWorldMachinima/FunkinCocoa) - A rewrite of base game (Psych 0.4). Aims to be as customizable as possible. Supports advanced HScript scripting using [SScript](https://github.com/TheWorldMachinima/SScript).
 
-* [Codename Engine](https://github.com/YoshiCrafter29/CodenameEngine) ⭐ 496 | 🐛 38 | 🌐 Haxe | 📅 2026-11-05 - A fork of base game that provides full HScript support for advanced softcoding, along with sorted and half rewritten source for optimisation and ease of use.
-  * [Codename Engine Docs](https://github.com/YoshiCrafter29/CodenameEngine/wiki) ⭐ 496 | 🐛 38 | 🌐 Haxe | 📅 2026-11-05 - Codename Engine modding documenation.
+* [Codename Engine](https://github.com/YoshiCrafter29/CodenameEngine) ⭐ 497 | 🐛 38 | 🌐 Haxe | 📅 2026-11-05 - A fork of base game that provides full HScript support for advanced softcoding, along with sorted and half rewritten source for optimisation and ease of use.
+  * [Codename Engine Docs](https://github.com/YoshiCrafter29/CodenameEngine/wiki) ⭐ 497 | 🐛 38 | 🌐 Haxe | 📅 2026-11-05 - Codename Engine modding documenation.
 
 * [FPS Plus](https://github.com/ThatRozebudDude/FPS-Plus-Public) ⭐ 163 | 🐛 2 | 🌐 Haxe | 📅 2026-10-30 - A fork of Funkin', as the name suggests, with higher framerate, better input system, rebindable keys and more. [B-Side Redux](https://gamebanana.com/mods/42724) was made on this engine.
 
@@ -158,7 +158,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
   * [Forever Engine Plus](https://github.com/Sword352/Forever-Engine-Plus) - A fork of Forever Engine which aims to maintain the engine by adding and optimizing features as well as fixing its bugs. Allow softcoding features for basic objects such as characters, stages, weeks, but also advanced objects such as shaders.
 
 * *Modding+* - An archived engine with HScript support with the intention of easy customization and enhanced gameplay options.
-  * [Disappointing Plus](https://github.com/AFunkinDisappointment/DisappointingPlus) ⭐ 14 | 🐛 0 | 🌐 Haxe | 📅 2026-08-06 - A fork of Modding+ with additional features such as framerate adjustment, camera movement whenever a character sings, and an improved character swap function.
+  * [Disappointing Plus](https://github.com/AFunkinDisappointment/DisappointingPlus) ⭐ 13 | 🐛 0 | 🌐 Haxe | 📅 2026-08-06 - A fork of Modding+ with additional features such as framerate adjustment, camera movement whenever a character sings, and an improved character swap function.
 
 * [Pop Engine Rewrite](https://github.com/khuonghoanghuy/FNF-Pop-Engine-Rewrite) - A FNF engine build on version v0.2.7.1 with more content added and new menu gameplay looks!
 
@@ -205,7 +205,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 
 ## Art
 
-* [Base Game FLAs](https://github.com/FunkinCrew/Funkin/tree/master/art/flashFiles) ⭐ 3,828 | 🐛 965 | 🌐 Haxe | 📅 2026-11-03 - FLAs for Friday Night' Funkin from the GitHub repository.
+* [Base Game FLAs](https://github.com/FunkinCrew/Funkin/tree/master/art/flashFiles) ⭐ 3,829 | 🐛 958 | 🌐 Haxe | 📅 2026-11-05 - FLAs for Friday Night' Funkin from the GitHub repository.
 * [Week 7 Update FLAs](https://twitter.com/PhantomArcade3K/status/1521540912421257218) - FLAs for the Week 7 update including the stage, Tankman and cutscenes.
 * [FNF Logo SVG recreation](https://commons.wikimedia.org/wiki/File:FNF-Logo.svg) - Vector recreation of the FNF logo, so you can edit the shapes better and recolor it without a crappy fill bucket.
 
@@ -216,7 +216,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 ## Charting
 
 * [SNIFF - SiIva Note Importer for FNF](https://github.com/PrincessMtH/SNIFF) ⭐ 56 | 🐛 13 | 🌐 C# | 📅 2022-02-28 - Tool to convert charts made in FL Studio to .json files usable in Friday Night Funkin'.
-* [Moonchart](https://github.com/MaybeMaru/moonchart) ⭐ 55 | 🐛 8 | 🌐 Haxe | 📅 2026-10-12 - Haxe library able to manage and convert charts made between multiple rhythm games to files usable in many Friday Night Funkin' versions and engines.
+* [Moonchart](https://github.com/MaybeMaru/moonchart) ⭐ 55 | 🐛 7 | 🌐 Haxe | 📅 2026-10-12 - Haxe library able to manage and convert charts made between multiple rhythm games to files usable in many Friday Night Funkin' versions and engines.
 * [fnf-to-sm](https://github.com/Ashen-Haze/fnf-to-sm) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2021-08-31 - A fork of a [fork](https://github.com/KadeDev/fnf-to-sm) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2021-08-31 from the original [fnf-to-sm repository](https://github.com/shockdude/fnf-to-sm) ⚠️ Archived. Converts Funkin' .json charts to StepMania simfiles and vice versa.
   * Alternatively, using [version 1.7 of Kade Engine](https://github.com/KadeDev/Kade-Engine/releases/tag/1.7) ⭐ 29 | 🐛 0 | 🌐 Haxe | 📅 2023-08-05 also has a simfile to .json converter.
   * You can also use [SM-to-FNF-Dance-Double](https://github.com/tzheng22/SM-to-FNF-Dance-Double) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2022-10-28 which has the added benefit of supporting sm file BPM Changes (also designed to work with Psych Engine)
@@ -244,4 +244,4 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
