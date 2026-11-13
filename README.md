@@ -14,7 +14,7 @@ Check out **[the official Funkin' Blog](https://funkin.me/blog/)**
 
 Contributions are welcome! Add links through pull requests or create an issue to start a discussion.
 
-Unsure what to contribute? Check out the `good first issue` [tagged GitHub issues](https://github.com/FunkinCrew/funkin-resources/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) ⭐ 248 | 🐛 37 | 🌐 JavaScript | 📅 2026-05-23 and read our [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)!
+Unsure what to contribute? Check out the `good first issue` [tagged GitHub issues](https://github.com/FunkinCrew/funkin-resources/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) ⭐ 249 | 🐛 37 | 🌐 JavaScript | 📅 2026-05-23 and read our [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)!
 
 <!-- 
   HTML is valid in GitHub markdown.
@@ -64,7 +64,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 
 ### Spritesheet Generation
 
-* [oxipng](https://github.com/shssoichiro/oxipng) ⭐ 4,323 | 🐛 39 | 🌐 Rust | 📅 2026-11-02 - Simple program for general image optimization but also works nicely with FNF Sprite Sheets.
+* [oxipng](https://github.com/shssoichiro/oxipng) ⭐ 4,324 | 🐛 39 | 🌐 Rust | 📅 2026-11-02 - Simple program for general image optimization but also works nicely with FNF Sprite Sheets.
 * [FNF Spritesheet and XML Maker](https://github.com/UncertainProd/FnF-Spritesheet-and-XML-Maker) ⭐ 90 | 🐛 53 | 🌐 Python | 📅 2023-06-15 - Combines individual frames together into spritesheets for FNF, and helps you manage animations.
 * [Sparrow Atlas Resizer](https://github.com/KadeDev/SparrowAtlasResizer) ⭐ 18 | 🐛 0 | 🌐 C# | 📅 2023-01-02 - Simple program for resizing sparrow atlas PNG and XML files.
 * [Free Texture Packer](http://free-tex-packer.com/) - Combines individual frames together into spritesheets. Has options to remove duplicate frames and rearrange frames to minimize texture size. Make sure to select `Starling` as the output format.
@@ -112,7 +112,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 
 ## Programming
 
-* [Friday Night Funkin' Official Source Code](https://github.com/FunkinCrew/funkin) ⭐ 3,837 | 🐛 955 | 🌐 Haxe | 📅 2026-11-11 - The original open source game by The Funkin' Crew. Last updated for The Mobile Port.
+* [Friday Night Funkin' Official Source Code](https://github.com/FunkinCrew/funkin) ⭐ 3,839 | 🐛 955 | 🌐 Haxe | 📅 2026-11-12 - The original open source game by The Funkin' Crew. Last updated for The Mobile Port.
 
 ### Engines and Forks
 
@@ -136,7 +136,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 * [Codename Engine](https://github.com/YoshiCrafter29/CodenameEngine) ⭐ 501 | 🐛 39 | 🌐 Haxe | 📅 2026-11-10 - A fork of base game that provides full HScript support for advanced softcoding, along with sorted and half rewritten source for optimisation and ease of use.
   * [Codename Engine Docs](https://github.com/YoshiCrafter29/CodenameEngine/wiki) ⭐ 501 | 🐛 39 | 🌐 Haxe | 📅 2026-11-10 - Codename Engine modding documenation.
 
-* [FPS Plus](https://github.com/ThatRozebudDude/FPS-Plus-Public) ⭐ 163 | 🐛 1 | 🌐 Haxe | 📅 2026-11-08 - A fork of Funkin', as the name suggests, with higher framerate, better input system, rebindable keys and more. [B-Side Redux](https://gamebanana.com/mods/42724) was made on this engine.
+* [FPS Plus](https://github.com/ThatRozebudDude/FPS-Plus-Public) ⭐ 163 | 🐛 1 | 🌐 Haxe | 📅 2026-11-12 - A fork of Funkin', as the name suggests, with higher framerate, better input system, rebindable keys and more. [B-Side Redux](https://gamebanana.com/mods/42724) was made on this engine.
 
 * [Leather Engine](https://github.com/Leather128/LeatherEngine) ⚠️ Archived - An engine that includes 1-21 key support, supports mod loading with Polymod and has other useful features like a stage editor.)
 
@@ -158,7 +158,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
   * [Forever Engine Plus](https://github.com/Sword352/Forever-Engine-Plus) - A fork of Forever Engine which aims to maintain the engine by adding and optimizing features as well as fixing its bugs. Allow softcoding features for basic objects such as characters, stages, weeks, but also advanced objects such as shaders.
 
 * *Modding+* - An archived engine with HScript support with the intention of easy customization and enhanced gameplay options.
-  * [Disappointing Plus](https://github.com/AFunkinDisappointment/DisappointingPlus) ⭐ 13 | 🐛 0 | 🌐 Haxe | 📅 2026-08-06 - A fork of Modding+ with additional features such as framerate adjustment, camera movement whenever a character sings, and an improved character swap function.
+  * [Disappointing Plus](https://github.com/AFunkinDisappointment/DisappointingPlus) ⭐ 14 | 🐛 0 | 🌐 Haxe | 📅 2026-08-06 - A fork of Modding+ with additional features such as framerate adjustment, camera movement whenever a character sings, and an improved character swap function.
 
 * [Pop Engine Rewrite](https://github.com/khuonghoanghuy/FNF-Pop-Engine-Rewrite) - A FNF engine build on version v0.2.7.1 with more content added and new menu gameplay looks!
 
@@ -196,16 +196,16 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 * [HaxeFlixel - Introduction](https://haxeflixel.com/documentation/) - Introductory HaxeFlixel Documentation.
 * [HaxeFlixel Cheat Sheet](https://haxeflixel.com/documentation/cheat-sheet/) - Series of code examples and mini tutorials for common uses of HaxeFlixel.
 * [HaxeFlixel Demos](https://haxeflixel.com/demos/) - Collection of demos for HaxeFlixel, designed to introduce beginners to the framework.
-  * [GitHub repository for abovementioned demos](https://github.com/HaxeFlixel/flixel-demos) ⭐ 465 | 🐛 23 | 🌐 Haxe | 📅 2026-11-11
+  * [GitHub repository for abovementioned demos](https://github.com/HaxeFlixel/flixel-demos) ⭐ 465 | 🐛 23 | 🌐 Haxe | 📅 2026-11-12
 * [HaxeFlixel Game Development Tools](https://haxeflixel.com/documentation/game-development-tools/) - Tools that HaxeFlixel recommends for developing games.
 * [HaxeFlixel Snippets](https://snippets.haxeflixel.com/) - Snippets of HaxeFlixel code with live demos to explain their functionality.
 * [HaxeFlixel's Tutorial Game (TurnBasedRPG)](https://haxeflixel.com/documentation/tutorial/) - A really nifty tutorial that goes step-by-step on teaching how to make a game, comes with pre-made assets for you to use as well.
-  * [GitHub source code for TurnBasedRPG](https://github.com/HaxeFlixel/flixel-demos/tree/dev/Tutorials/TurnBasedRPG) ⭐ 465 | 🐛 23 | 🌐 Haxe | 📅 2026-11-11
+  * [GitHub source code for TurnBasedRPG](https://github.com/HaxeFlixel/flixel-demos/tree/dev/Tutorials/TurnBasedRPG) ⭐ 465 | 🐛 23 | 🌐 Haxe | 📅 2026-11-12
 * [Online HaxeFlixel crash course](https://youtube.com/playlist?list=PLiKs97d-BatFGPrkf7yNN0e6IyToRaaYO) - A HaxeFlixel crash course on YouTube made by Richard Oliver Bray.
 
 ## Art
 
-* [Base Game FLAs](https://github.com/FunkinCrew/Funkin/tree/master/art/flashFiles) ⭐ 3,837 | 🐛 955 | 🌐 Haxe | 📅 2026-11-11 - FLAs for Friday Night' Funkin from the GitHub repository.
+* [Base Game FLAs](https://github.com/FunkinCrew/Funkin/tree/master/art/flashFiles) ⭐ 3,839 | 🐛 955 | 🌐 Haxe | 📅 2026-11-12 - FLAs for Friday Night' Funkin from the GitHub repository.
 * [Week 7 Update FLAs](https://twitter.com/PhantomArcade3K/status/1521540912421257218) - FLAs for the Week 7 update including the stage, Tankman and cutscenes.
 * [FNF Logo SVG recreation](https://commons.wikimedia.org/wiki/File:FNF-Logo.svg) - Vector recreation of the FNF logo, so you can edit the shapes better and recolor it without a crappy fill bucket.
 
@@ -244,4 +244,4 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
