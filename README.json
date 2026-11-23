@@ -55,7 +55,7 @@
                 "open_issues": 34,
                 "owner": "oxipng",
                 "repo": "oxipng",
-                "stars": 4331,
+                "stars": 4333,
                 "topics": [
                   "image-compression",
                   "image-optimization",
@@ -166,11 +166,11 @@
             "id": 300816061,
             "language": "Haxe",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-21T01:18:22Z",
-            "open_issues": 953,
+            "last_commit": "2026-11-22T07:07:08Z",
+            "open_issues": 957,
             "owner": "FunkinCrew",
             "repo": "Funkin",
-            "stars": 3848,
+            "stars": 3850,
             "topics": [
               "game",
               "gamedev",
@@ -291,11 +291,11 @@
                     "id": 545729748,
                     "language": "Haxe",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-21T08:26:18Z",
-                    "open_issues": 49,
+                    "last_commit": "2026-11-22T22:49:12Z",
+                    "open_issues": 51,
                     "owner": "CodenameCrew",
                     "repo": "CodenameEngine",
-                    "stars": 507,
+                    "stars": 508,
                     "topics": [
                       "cne",
                       "codename-engine",
@@ -315,11 +315,11 @@
                 "id": 545729748,
                 "language": "Haxe",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-21T08:26:18Z",
-                "open_issues": 49,
+                "last_commit": "2026-11-22T22:49:12Z",
+                "open_issues": 51,
                 "owner": "CodenameCrew",
                 "repo": "CodenameEngine",
-                "stars": 507,
+                "stars": 508,
                 "topics": [
                   "cne",
                   "codename-engine",
@@ -959,7 +959,7 @@
                     "open_issues": 23,
                     "owner": "HaxeFlixel",
                     "repo": "flixel-demos",
-                    "stars": 466,
+                    "stars": 467,
                     "topics": [
                       "demo",
                       "haxeflixel",
@@ -992,7 +992,7 @@
                     "open_issues": 23,
                     "owner": "HaxeFlixel",
                     "repo": "flixel-demos",
-                    "stars": 466,
+                    "stars": 467,
                     "topics": [
                       "demo",
                       "haxeflixel",
@@ -1129,7 +1129,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T01:39:16.197Z",
+    "last_updated": "2026-11-23T01:59:41.566Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community curated resources for Friday Night Funkin'",
@@ -1138,10 +1138,10 @@
       "language": "JavaScript",
       "license": "CC0-1.0",
       "last_commit": "2026-05-23T00:54:32Z",
-      "open_issues": 37,
+      "open_issues": 38,
       "owner": "FunkinCrew",
       "repo": "awesome-funkin-resources",
-      "stars": 251,
+      "stars": 250,
       "topics": [
         "awesome",
         "awesome-list",
