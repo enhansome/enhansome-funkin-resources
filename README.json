@@ -55,7 +55,7 @@
                 "open_issues": 35,
                 "owner": "oxipng",
                 "repo": "oxipng",
-                "stars": 4335,
+                "stars": 4336,
                 "topics": [
                   "image-compression",
                   "image-optimization",
@@ -166,11 +166,11 @@
             "id": 300816061,
             "language": "Haxe",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-23T12:25:27Z",
-            "open_issues": 959,
+            "last_commit": "2026-11-26T02:45:27Z",
+            "open_issues": 952,
             "owner": "FunkinCrew",
             "repo": "Funkin",
-            "stars": 3853,
+            "stars": 3855,
             "topics": [
               "game",
               "gamedev",
@@ -292,10 +292,10 @@
                     "language": "Haxe",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-24T22:58:30Z",
-                    "open_issues": 51,
+                    "open_issues": 52,
                     "owner": "CodenameCrew",
                     "repo": "CodenameEngine",
-                    "stars": 508,
+                    "stars": 509,
                     "topics": [
                       "cne",
                       "codename-engine",
@@ -316,10 +316,10 @@
                 "language": "Haxe",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-24T22:58:30Z",
-                "open_issues": 51,
+                "open_issues": 52,
                 "owner": "CodenameCrew",
                 "repo": "CodenameEngine",
-                "stars": 508,
+                "stars": 509,
                 "topics": [
                   "cne",
                   "codename-engine",
@@ -343,7 +343,7 @@
                 "id": 376966646,
                 "language": "Haxe",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-24T21:26:33Z",
+                "last_commit": "2026-11-26T00:23:49Z",
                 "open_issues": 1,
                 "owner": "ThatRozebudDude",
                 "repo": "FPS-Plus-Public",
@@ -1129,7 +1129,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T04:37:30.332Z",
+    "last_updated": "2026-11-26T03:47:33.639Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community curated resources for Friday Night Funkin'",
